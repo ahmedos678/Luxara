@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515436818038",
+    "project_id": "luxara-dae89",
+    "storage_bucket": "luxara-dae89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515436818038:android:5c4475174dfca5a26bb957",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4BrVYN_zxxVf1SJm3VSB9JEUoo9hndo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

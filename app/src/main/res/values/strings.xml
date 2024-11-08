@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">first_app</string>
+    <string name="welcome">Welcome to Luxara,</string>
+    <string name="glad">Glad to see you!</string>
+    <string name="add">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="for_pass"><u>Forgot password?</u></string>
+    <string name="remember">Remember me!</string>
+    <string name="log_with">Or Login with</string>
+    <string name="fb">Facebook</string>
+    <string name="gg">Google</string>
+    <string name="dont_have">D\'ont have an account?</string>
+    <string name="sign"> <u> Sign Up Now </u> </string>
+    <string name="log">Login</string>
+    <string name="logo">LUXARA Logo</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="create_acc">Create Account</string>
+    <string name="start">to get started now!</string>
+    <string name="sign_with">Or Sign Up with</string>
+    <string name="already_have">Already have an account?</string>
+    <string name="log_now"><u>Login Now</u></string>
+    <string name="reset_pass">Enter your email to receive an email to reset your password</string>
+    <string name="guest"><u>Continue as a guest</u></string>
+</resources>
