@@ -28,7 +28,7 @@ public class FirstInterface extends AppCompatActivity {
         boolean isChecked = preferences.getBoolean("rememberMe", false);
 
         if (isChecked) {
-            startActivity(new Intent(this, Profile.class));
+            startActivity(new Intent(this, Home.class));
         }
 
         log.setOnClickListener(view -> {

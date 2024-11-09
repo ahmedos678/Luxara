@@ -82,7 +82,7 @@ public class Login extends AppCompatActivity {
         if (loggedUser != null) {
             if (loggedUser.isEmailVerified()) {
                 checkRememberMe();
-                startActivity(new Intent(this, Profile.class));
+                startActivity(new Intent(this, Home.class));
                 progressDialog.dismiss();
                 finish();
             } else {

@@ -8,4 +8,10 @@
     </style>
 
     <style name="Theme.First_app" parent="Base.Theme.First_app" />
+
+    <style name="navigationTheme">
+        <item name="colorPrimary">
+            @color/Mypurple
+        </item>
+    </style>
 </resources>
